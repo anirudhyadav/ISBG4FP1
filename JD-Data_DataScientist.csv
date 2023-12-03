@@ -1,1121 +1,488 @@
 Skills,JobType
-Computer science,DS
-Prototype,DS
-GIT,DS
-Analytical,DS
-Machine learning,DS
-Information retrieval,DS
-Data quality,DS
-Forecasting,DS
-data science,DS
-GCP,DS
-Senior Analyst,DS
-Machine learning,DS
-Deployment,DS
-Mathematics,DS
-Predictive analytics,DS
-Statistics,DS
-SAS,DS
-Analytical,DS
-Artificial Intelligence,DS
-Machine learning,DS
-Genetics,DS
-data visualization,DS
-Information technology,DS
-SQL,DS
-Data analysis,DS
-MIS,DS
-Machine learning,DS
-Data quality,DS
-Natural language processing,DS
-data visualization,DS
-Operations,DS
-Analytics,DS
-Operations research,DS
-Simulation,DS
-Data management,DS
-Analytical,DS
-German,DS
-Spanish,DS
-Continuous improvement,DS
-Analytics,DS
-Analyst,DS
-data science,DS
-GCP,DS
-Machine learning,DS
-Deployment,DS
-Mathematics,DS
-Predictive analytics,DS
-Statistics,DS
-Statistical modeling,DS
-Quality improvement,DS
-data science,DS
-Artificial Intelligence,DS
-Machine learning,DS
-Open source,DS
-Technical support,DS
-Analytics,DS
 Computer vision,DS
-Performance tuning,DS
-deep learning,DS
-data science,DS
-Analytical,DS
-Machine learning,DS
-Packaging,DS
-Data structures,DS
-Snowflake,DS
-Snowpark,DS
-Snowpipe,DS
-AWS,DS
-Python,DS
-Data,DS
-Python,DS
-Stream Analytics,DS
-MongoDB,DS
-Research,DS
-Modeling,DS
-Data,DS
-Analytics,DS
-Streams,DS
-SAN,DS
-customer analytics,DS
-Analytical,DS
-Predictive modeling,DS
-Digital marketing,DS
-SQL,DS
-Python,DS
-Modeling,DS
-SAN,DS
-Data migration,DS
-Web services,DS
-Medical coding,DS
-Analytical,DS
-Data mining,DS
-Forecasting,DS
-Information technology,DS
-Product management,DS
-Quality monitoring,DS
-Machine learning,DS
-Radiology,DS
-Healthcare,DS
-Natural language processing,DS
-Data quality,DS
-Continuous improvement,DS
-Solution architecture,DS
-Data modeling,DS
-Machine learning,DS
-Data structures,DS
-Customer service,DS
-application architecture,DS
-Open source,DS
-MATLAB,DS
-Data analysis,DS
-ERP,DS
-Analytical,DS
-CMMI,DS
-Application development,DS
-MS Office,DS
-Data mining,DS
-Operations,DS
-Product management,DS
-Quality monitoring,DS
-Machine learning,DS
-Radiology,DS
-Healthcare,DS
-Natural language processing,DS
-Data quality,DS
-Continuous improvement,DS
-Product management,DS
-Quality monitoring,DS
-Machine learning,DS
-Radiology,DS
-Healthcare,DS
-Natural language processing,DS
-Data quality,DS
-Continuous improvement,DS
-IT services,DS
-MIN,DS
-data science,DS
-Finance,DS
-Banking,DS
-Science,DS
-Data,DS
-IT services,DS
-Analytical skills,DS
-deep learning,DS
-Statistical analysis,DS
-Data modeling,DS
-Database design,DS
-Analytical,DS
-Machine learning,DS
-Computer science,DS
-SAN,DS
-Analytical,DS
-SMS,DS
-Data quality,DS
-Business intelligence,DS
-Business solutions,DS
-Analytics,DS
-Computer science,DS
-Analytical,DS
-Machine learning,DS
-Predictive modeling,DS
-Data mining,DS
-Business solutions,DS
-Information technology,DS
-Financial services,DS
-Computer science,DS
-Data analysis,DS
-SAS,DS
-MIS,DS
-Analytical,DS
-Research,DS
-Information technology,DS
-Analytics,DS
-Computer science,DS
-Data analysis,DS
-SAS,DS
-data science,DS
-MIS,DS
-Analytical,DS
-Data analytics,DS
-Information technology,DS
-Supply chain,DS
-Product management,DS
-Data analysis,DS
-Data modeling,DS
-Project management,DS
-Analytical,DS
-Consulting,DS
-Management consulting,DS
-Claims,DS
-Data management,DS
-Coding,DS
-Analytical,DS
-Pharma,DS
-Clinical research,DS
-Healthcare,DS
-Public health,DS
-Machine learning,DS
-Data collection,DS
-Programming,DS
-data visualization,DS
-Data mining,DS
-Risk management,DS
-MATLAB,DS
-Statistics,DS
-Data analysis,DS
 C++,DS
-Coding,DS
-Analytical,DS
-Data collection,DS
-Data quality,DS
-Medical insurance,DS
-Analytics,DS
-Automation,DS
-metadata,DS
-Managed services,DS
-Prototype,DS
-Linux,DS
 Image processing,DS
-Coding,DS
-Machine learning,DS
-Data Scientist,DS
-python,DS
 data science,DS
-GCP,DS
-Databricks,DS
-machine learning,DS
-AWS,DS
-Data,DS
-Outbound,DS
+Agile,DS
+Data structures,DS
+Application development,DS
+Scrum,DS
+Cloud computing,DS
+C++,DS
 Data analysis,DS
-Operations research,DS
-Online marketing,DS
-SEM,DS
-Regression analysis,DS
-microsoft,DS
-Data mining,DS
-Coding,DS
+Data modeling,DS
+Agile,DS
+Data structures,DS
+Application development,DS
+Scrum,DS
+Computer vision,DS
+Cloud computing,DS
+C++,DS
+Image processing,DS
+Machine learning,DS
+Agile,DS
+Data structures,DS
+Application development,DS
+Data Science,DS
+Hive,DS
+Data Scientist,DS
+Hadoop,DS
+Big Data,DS
+Data Collection,DS
+Spark,DS
+Python,DS
+Base SAS,DS
+Excel,DS
+data science,DS
+Data modeling,DS
+SQL,DS
+Python,DS
+data,DS
+base,DS
+C++,DS
+data science,DS
+Data modeling,DS
+Staffing,DS
 GCP,DS
 Machine learning,DS
-Javascript,DS
-Workflow,DS
-Deployment,DS
-AWS,DS
-Bpm,DS
-Data Science,DS
-Business Intelligence,DS
-R,DS
-Azure,DS
-Power BI,DS
-Predictive Maintenance,DS
-product development,DS
-Tableau,DS
-Text mining,DS
-Outbound,DS
-Data analysis,DS
+Data structures,DS
+Perl,DS
+Computer science,DS
 Operations research,DS
-Online marketing,DS
-linear regression,DS
-SEM,DS
-Regression analysis,DS
-Data Science,DS
-AWS,DS
-Tensorflow,DS
-Natural Language Processing,DS
-Pandas,DS
-Numpy,DS
-Process,DS
-Science,DS
+Machine learning,DS
+Ab Initio,DS
+Informatica,DS
+SPSS,DS
+QlikView,DS
+Unix shell scripting,DS
+Computer science,DS
 deep learning,DS
-GIT,DS
-Nosql Databases,DS
-machine learning,DS
+spark,DS
+Neural networks,DS
+Storage management,DS
+Machine learning,DS
+model development,DS
+Application development,DS
+Economics,DS
+advanced analytics,DS
+data science,DS
+Architecture,DS
+Machine learning,DS
+Database,DS
+Predictive modeling,DS
+Customer experience,DS
+Business objects,DS
+SAS,DS
+XML,DS
+MySQL,DS
+Javascript,DS
+Data collection,DS
+Data processing,DS
+Data Analyst,DS
+Automation,DS
+Prototype,DS
+Coding,DS
+SCALA,DS
+Instrumentation,DS
+Open source,DS
+Data mining,DS
+Analytics,DS
+Renewable energy,DS
+Analytical,DS
+Machine learning,DS
+Agile,DS
+Genetics,DS
+Data mining,DS
+Continuous improvement,DS
+SCADA,DS
+Data analysis,DS
+Excel,DS
+Bloomberg,DS
+data science,DS
+Coding,DS
+Machine learning,DS
+Data quality,DS
+Analytics,DS
+deep learning,DS
+data science,DS
+Networking,DS
+Analytical,DS
+Machine learning,DS
+Healthcare,DS
+Information retrieval,DS
+Natural language processing,DS
+tableau,DS
+data science,DS
+SQL database,DS
+Security systems,DS
+Physical security,DS
+Management,DS
+Data warehousing,DS
 Python,DS
-Pytorch,DS
-Tensorflow,DS
+C++,DS
+Operations research,DS
+Analytical,DS
+Machine learning,DS
+Data collection,DS
+Business intelligence,DS
+Data mining,DS
 SQL,DS
-Data Science,DS
-Data Mining,DS
-Machine Learning,DS
-analytics,DS
-Data,DS
-Machine,DS
-Science,DS
+Computer science,DS
+Telecom,DS
+IIS,DS
+Data collection,DS
+Agile,DS
+Data structures,DS
+Predictive modeling,DS
+Data mining,DS
+Strategy consulting,DS
+deep learning,DS
+Data modeling,DS
+Machine learning,DS
+Manager Technology,DS
+Workflow,DS
+Project delivery,DS
+Statistics,DS
 IT services,DS
-Health insurance,DS
-Operational risk,DS
-External audit,DS
+SAN,DS
+Operations research,DS
+Production planning,DS
 Analytical,DS
 Consulting,DS
-Resourcing,DS
-risk consulting,DS
-IT services,DS
-Analytical,DS
-Machine learning,DS
-CMMI,DS
-Healthcare,DS
-Forecasting,DS
-Financial services,DS
-SQL,DS
-IT services,DS
-Analytical,DS
-Machine learning,DS
-CMMI,DS
-Healthcare,DS
-Forecasting,DS
-Financial services,DS
-SQL,DS
-Product management,DS
-Supply chain,DS
-Hospitality,DS
-Analytical,DS
-Machine learning,DS
-Open source,DS
-cisco,DS
-Analytics,DS
-Machine learning,DS
-Data collection,DS
-data visualization,DS
-Collections,DS
-Data,DS
-Machine,DS
-Sports,DS
-MS SQL,DS
-data science,DS
-RDBMS,DS
-MySQL,DS
-Agile,DS
-CMMI,DS
-Healthcare,DS
-HTML,DS
-Elastic Search,DS
-Semantic search,DS
-Natural Language processing,DS
-data ingestion,DS
-Graph DB,DS
-System Integration,DS
-Process,DS
-Db,DS
-data cleansing,DS
-Operations research,DS
-Data modeling,DS
-Time series analysis,DS
-Machine learning,DS
-Software development life cycle,DS
-IC engines,DS
-Industrial machinery,DS
-Machine Learning,DS
-Predictive Modeling,DS
-Artificial Intelligence,DS
-Data science,DS
-Neural Networks,DS
-Al,DS
-LLM,DS
-Deep Learning,DS
-algorithms,DS
-data mining,DS
-power bi,DS
-MSBI,DS
-statistics,DS
-data analytics,DS
-Bi,DS
-Management,DS
-Python,DS
-database management,DS
-R,DS
-Power BI,DS
-GitHub,DS
-Data Visualization,DS
-Tableau,DS
-Statistical Analysis,DS
-AI,DS
-Machine Learning,DS
-Ml,DS
-Ai Techniques,DS
-Artificial Intelligence,DS
-Requirements,DS
-Machine,DS
-Data Science,DS
-R Programming,DS
-Linux,DS
-Dockers,DS
-AWS,DS
-UNIX,DS
-Docker,DS
-R Program,DS
-Technical product configuration,DS
-c++,DS
-C,DS
-design,DS
-MySQL,DS
-JavaScript,DS
-integration PHP,DS
-HTML,DS
-Data Science,DS
-python,DS
-data mining,DS
-machine learning,DS
-artificial intelligence,DS
-R,DS
-Statistical Analyses,DS
-Csharp,DS
-IT services,DS
-Logistic regression,DS
-Head Business Development,DS
-SAS,DS
-Machine learning,DS
-Vendor,DS
-Forecasting,DS
+SMS,DS
 CRM,DS
-Usage,DS
+Mining,DS
+Text mining,DS
+Logistic regression,DS
+Machine learning,DS
+Data mining,DS
+Continuous improvement,DS
+Open source,DS
+Forecasting,DS
+Business objects,DS
+MS SQL,DS
+MySQL,DS
+Javascript,DS
+Business intelligence,DS
+microsoft,DS
+Open source,DS
+Information technology,DS
+Telecom,DS
 data science,DS
 spark,DS
+Analytical,DS
+Intellectual property,DS
 Programming,DS
-Python,DS
-data,DS
-program,DS
-science,DS
-Web analytics,DS
-Coding,DS
-Data modeling,DS
-E-commerce,DS
-HTML,DS
-HR,DS
-Data analytics,DS
-Data,DS
-Data modeling,DS
-Coding,DS
-E-commerce,DS
-Predictive modeling,DS
-HTML,DS
-HR,DS
-Data,DS
-Hrsd,DS
-Computer science,DS
-Automation,DS
-Artificial Intelligence,DS
-Machine learning,DS
-Data collection,DS
-Risk management,DS
-Monitoring,DS
-SQL,DS
-NoSQL,DS
-Wealth management,DS
-Analytical,DS
-Finance,DS
-Machine learning,DS
-Programming,DS
-Medical insurance,DS
-Statistics,DS
-GIS,DS
-Image processing,DS
-Analytical,DS
-Industrial products,DS
-Machine learning,DS
-Debugging,DS
-Open source,DS
-Remote sensing,DS
-Computer science,DS
-Automation,DS
-Operations research,DS
-SAS SQL,DS
-Artificial Intelligence,DS
-Machine learning,DS
-MATLAB,DS
-Gaming,DS
-Computer science,DS
-Usage,DS
-Sales,DS
-data science,DS
-Machine learning,DS
-Revenue generation,DS
-SQL,DS
-Auditing,DS
-Data Science,DS
-Machine Learning,DS
-Python,DS
-Science,DS
-Data,DS
-Machine,DS
-Manager Quality Assurance,DS
-SAS,DS
-Linux,DS
-Data modeling,DS
-XML,DS
-Predictive modeling,DS
-Data mining,DS
-Business intelligence,DS
-Computer science,DS
-Networking,DS
-Coding,DS
-Consulting,DS
-Troubleshooting,DS
-Information technology,DS
-Distribution system,DS
-Analytics,DS
-Natural Language Processing,DS
-Nltk,DS
-Rnn,DS
-Lstm,DS
-LLMs,DS
-Artificial Intelligence,DS
-Text Mining,DS
-bert,DS
-Generative AI,DS
-LLM,DS
-Predictive Modeling,DS
-Natural Language Processing,DS
-Computer Vision,DS
-Machine Learning,DS
-Computer,DS
-Machine,DS
-Neural Networks,DS
-Machine Learning,DS
-Python,DS
-Data Science,DS
-R,DS
-Advanced Analytics,DS
-Statistical Modeling,DS
-Management,DS
-Supply chain,DS
-Networking,DS
-Web analytics,DS
-Analytical,DS
-Machine learning,DS
-Business solutions,DS
-Forecasting,DS
-Information technology,DS
-Data analysis,DS
-Data validation,DS
-data science,DS
-Cloud Services,DS
-Machine learning,DS
 Data quality,DS
-Statistics,DS
-SQL,DS
-python,DS
-NLP,DS
-machine learning,DS
-Data,DS
-Machine,DS
-Natural language processing,DS
-Performance tuning,DS
-Automation,DS
-Enterprise applications,DS
-Configuration management,DS
-Distribution system,DS
-Monitoring,DS
-Financial services,DS
-CRM,DS
-Computer science,DS
-Data analysis,DS
-GIT,DS
-HP data protector,DS
-Machine learning,DS
-Agile,DS
-Data structures,DS
-JIRA,DS
-Computer science,DS
-Version control,DS
-Pharma,DS
-Analytical,DS
-Machine learning,DS
-Agile,DS
-Healthcare,DS
-Life sciences,DS
-Data Scientist,DS
-python,DS
-Hive,DS
-nlp,DS
-data mining,DS
-SparkSQL,DS
-statistical modeling,DS
-text mining,DS
-Data Science,DS
-Python,DS
-Machine Learning,DS
-Modeling,DS
-Data,DS
-Machine,DS
-Science,DS
-Data Science,DS
-Natural Language Processing,DS
-Machine Learning,DS
-Deep Learning,DS
-Python,DS
-R,DS
-Data,DS
-Languages,DS
-Business services,DS
-Operations research,DS
-SAP,DS
-Version control,DS
-GIT,DS
-data science,DS
-Analytical,DS
-Business process management,DS
-C++,DS
-Dicom,DS
-Medical imaging,DS
-Artificial Intelligence,DS
-Machine learning,DS
-Healthcare,DS
-Management,DS
-Python,DS
-Data analysis,DS
-SAS,DS
-Machine learning,DS
-Healthcare,DS
-German,DS
-Customer service,DS
-Teradata,DS
-Data mining,DS
-Supply chain,DS
-Operations research,DS
-data science,DS
-Data management,DS
-Project management,DS
-Information management,DS
-Resource management,DS
-Forecasting,DS
-NoSQL,DS
-Natural Language Processing,DS
-Machine Learning,DS
-Python,DS
-Data Science,DS
-Azure,DS
-MLOps,DS
-Large Language Model,DS
-data science,DS
-Staffing,DS
-Artificial Intelligence,DS
-Machine learning,DS
-power bi,DS
-microsoft,DS
-big data,DS
-AWS,DS
-data science,DS
-Staffing,DS
-Artificial Intelligence,DS
-Machine learning,DS
-Programming,DS
-power bi,DS
-microsoft,DS
-big data,DS
-Usage,DS
-Staffing,DS
-Machine learning,DS
-Subject Matter Expert,DS
-Data mining,DS
-Operations,DS
-Statistics,DS
-SQL,DS
+Research,DS
 deep learning,DS
-MS SQL,DS
-tableau,DS
-MySQL,DS
-Machine learning,DS
-Budgeting,DS
-Python,DS
-sql,DS
-Unix,DS
-Organic chemistry,DS
-Manager Quality Assurance,DS
-Material science,DS
-Version control,DS
-Linux,DS
-MySQL,DS
-Clinical trials,DS
-Operations research,DS
-tableau,DS
+Usage,DS
 data science,DS
-Analytical,DS
+devops,DS
 Machine learning,DS
-Hadoop,DS
-SCALA,DS
-Data Analyst,DS
-RDBMS,DS
-Database design,DS
-Data structures,DS
-Informatica,DS
-Oracle,DS
+Cloud,DS
+Data collection,DS
+Infrastructure,DS
+RCA,DS
+customer analytics,DS
+Staffing,DS
+Social media,DS
+Healthcare,DS
+Troubleshooting,DS
 Open source,DS
-MATLAB,DS
-Analytics,DS
-Text mining,DS
-Delivery management,DS
-Data analysis,DS
-Business analytics,DS
-Analytical,DS
-Machine learning,DS
-Natural language processing,DS
-Data analytics,DS
-IT services,DS
-data science,DS
-Web application,DS
-Machine learning,DS
-Agile,DS
-Scrum,DS
-SOW,DS
+CRM,DS
+RCA,DS
+customer analytics,DS
+Staffing,DS
+Social media,DS
+Healthcare,DS
+Troubleshooting,DS
 Open source,DS
-Data Scientist,DS
-Computer science,DS
-Prototype,DS
-Analytical,DS
+CRM,DS
+customer analytics,DS
+Staffing,DS
 Machine learning,DS
-Perl,DS
+Troubleshooting,DS
 Open source,DS
-Ruby,DS
 Analytics,DS
-Data Scientist,DS
-C++,DS
-Data analysis,DS
-Machine learning,DS
-Agile,DS
-JIRA,DS
-Financial services,DS
-SQL,DS
-Python,DS
-MySQL,DS
-PHP,DS
-Web Scraping,DS
-Python,DS
-Api Integration,DS
-Senior,DS
-Web technologies,DS
-API,DS
-Data analysis,DS
-Project management,DS
-Business intelligence,DS
-JIRA,DS
-Project delivery,DS
-Stakeholder management,DS
-Analytics,DS
-SQL,DS
-Data analysis,DS
+Reporting tools,DS
+CRM,DS
 data science,DS
 Coding,DS
+Staffing,DS
 Machine learning,DS
-SCALA,DS
-SPSS,DS
-Operations,DS
-Analytics,DS
-Usage,DS
-Machine learning,DS
-Data collection,DS
-SAGE,DS
-Data mining,DS
-Digital marketing,DS
-big data,DS
-Analytics,DS
-Prototype,DS
-GIT,DS
-Claims,DS
-data science,DS
-Analytical,DS
-Machine learning,DS
-Agile,DS
+Technical leadership,DS
+model development,DS
+Resident Expert,DS
 Statistics,DS
-Microstrategy,DS
-MS SQL,DS
-SAP,DS
-Db2,DS
-MySQL,DS
-Agile,DS
-Oracle,DS
-Teradata,DS
-Data analysis,DS
-NoSQL,DS
-Data modeling,DS
-data security,DS
-Machine learning,DS
-Data collection,DS
-data governance,DS
-Data quality,DS
-Computer science,DS
-SQL queries,DS
-Data analysis,DS
-tableau,DS
-data science,DS
-Instrumentation,DS
-E-commerce,DS
-Operations,DS
-Computer science,DS
-SQL queries,DS
-Data analysis,DS
-Machine learning,DS
-Market segmentation,DS
-Instrumentation,DS
-E-commerce,DS
-Information technology,DS
-skills,DS
-algorithms,DS
-data-mining,DS
-c,DS
-analytical,DS
-and,DS
-MATLAB,DS
-Solid,DS
-GCP,DS
-Database management,DS
-Machine learning,DS
-power bi,DS
-data visualization,DS
-big data,DS
-Analytics,DS
-SQL,DS
-Business administration,DS
-Data analysis,DS
-Data modeling,DS
-Analytical,DS
-Brand marketing,DS
-Machine learning,DS
-Data analytics,DS
-data visualization,DS
-Operations research,DS
-data science,DS
-Machine learning,DS
-Agile,DS
-Data collection,DS
-Data mining,DS
-Open source,DS
-Automotive,DS
-Product Development,DS
-R,DS
-Nlp,DS
-Problem - Solving Skills,DS
-Data Scientist,DS
-Operations Research,DS
-Data Visualization,DS
-Python,DS
-Front end,DS
-end,DS
-data,DS
-front,DS
-Operations research,DS
-data science,DS
-Machine learning,DS
-Agile,DS
-Data collection,DS
-Data mining,DS
-Open source,DS
-Automotive,DS
-IT services,DS
-Computer science,DS
-Strategic partnerships,DS
+RCA,DS
+Staffing,DS
 Social media,DS
 Machine learning,DS
-SEZ,DS
-Adobe,DS
-SQL,DS
-Predictive modeling,DS
-Business solutions,DS
-Revenue generation,DS
-Monitoring,DS
-Testing,DS
-Software testing,DS
-Data,DS
-Revenue,DS
-Machine learning,DS
-Data collection,DS
-data visualization,DS
-Data,DS
-Machine,DS
-Collections,DS
-C++,DS
-Analytical,DS
-SCALA,DS
-Data collection,DS
-Data Analyst,DS
-data visualization,DS
-Business intelligence,DS
-Data mining,DS
-VMware,DS
-Assurance,DS
-Networking,DS
-Performance management,DS
-Time series analysis,DS
-Pattern recognition,DS
-Oracle,DS
-cisco,DS
-ISMS,DS
-Analytical,DS
-Artificial Intelligence,DS
-Machine learning,DS
-SEZ,DS
-Adobe,DS
-Monitoring,DS
-SQL,DS
-Data Scientist,DS
-Python,DS
-Data Science,DS
-Azure,DS
-Power BI,DS
-GCP,DS
-Pandas,DS
-Tableau,DS
-Logistic regression,DS
+Healthcare,DS
+healthcare analytics,DS
+Troubleshooting,DS
+Reporting tools,DS
+Text mining,DS
 Data analysis,DS
-Team management,DS
-SAS,DS
-Underwriting,DS
-Machine learning,DS
-Portfolio management,DS
-SQL,DS
-Health insurance,DS
-Operations research,DS
+Linux,DS
+Staffing,DS
 Analytical,DS
 Machine learning,DS
-Data analytics,DS
-Data mining,DS
-Business intelligence,DS
-Recruitment,DS
+Natural language processing,DS
+Forecasting,DS
 deep learning,DS
-Law enforcement,DS
-GCP,DS
-Machine learning,DS
-Relationship,DS
-Workflow,DS
-Deployment,DS
-Management,DS
-Data Science,DS
-Tensorflow,DS
-Pytorch,DS
-Image Processing,DS
-Django,DS
-Pandas,DS
-Keras,DS
-Machine Learning,DS
-Operations research,DS
 data science,DS
+Staffing,DS
+Analytical,DS
 Machine learning,DS
-Agile,DS
-Data collection,DS
+Programming,DS
 Data mining,DS
-Open source,DS
-Automotive,DS
-Operations research,DS
+big data,DS
+data science,DS
+Coding,DS
+Data modeling,DS
+Agile development,DS
+MySQL,DS
 Machine learning,DS
-Agile,DS
-Data collection,DS
+test driven development,DS
+MATLAB,DS
+Statistical modeling,DS
+PDF,DS
+Technology Architect,DS
+Machine learning,DS
+Manager Technology,DS
+Information retrieval,DS
 Natural language processing,DS
 Data mining,DS
-Open source,DS
-Automotive,DS
-Training,DS
-Linux,DS
-Opencv,DS
-Analytical,DS
-Machine learning,DS
-Data collection,DS
-Deployment,DS
-Hardware,DS
-Data Science,DS
-R,DS
-Data Analytics,DS
-Python,DS
-SQL,DS
-Predictive Modeling,DS
-Table,DS
-data mining,DS
-Pyspark,DS
-R,DS
-GCP,DS
-Cloud Platform,DS
-Python Development,DS
-Development,DS
-Client,DS
-Python,DS
-Data Scientist,DS
-Data Analyst,DS
-Pyspark,DS
-NoSQL,DS
-CI/CD Pipeline,DS
-Github,DS
-Node.Js,DS
-Tableau,DS
 Computer science,DS
-Data analysis,DS
-Backend,DS
-Bidding,DS
-Analytical,DS
-Machine learning,DS
-Healthcare,DS
-Analytics,DS
-Python,DS
-Tensorflow,DS
-Predictive Modeling,DS
-Matplotlib,DS
-Pyspark,DS
-Logistic Regression,DS
-Natural Language Processing,DS
-Neural Networks,DS
-customer analytics,DS
-Data management,DS
-Image processing,DS
-Analytical,DS
-Consulting,DS
-Machine learning,DS
-SCALA,DS
-Network planning,DS
-Supply chain,DS
-Data analysis,DS
-Sales operations,DS
-Coding,DS
-Machine learning,DS
-Customer service,DS
-data visualization,DS
-Operations,DS
+Computer vision,DS
 deep learning,DS
 Neural networks,DS
-Pharma,DS
-Analytical,DS
-SAAS,DS
-Healthcare,DS
-Forecasting,DS
+Data collection,DS
+model development,DS
 Statistics,DS
-Training,DS
-deep learning,DS
-Version control,DS
-GIT,DS
-MIN,DS
-Linux,DS
-Django,DS
-Machine learning,DS
-Data Scientist,DS
-Python,DS
-Data,DS
-Contracts,DS
-Python Data,DS
-Remote,DS
-Pyspark,DS
-Computervison,DS
-Databricks,DS
-SQL,DS
-Python,DS
-Machine Learning,DS
-Deep Learning,DS
-Data,DS
-Data analysis,DS
-Data management,DS
-HTML,DS
-HTTP,DS
-Information management,DS
-Data mining,DS
-Econometrics,DS
-Information technology,DS
+Supervision,DS
 Machine learning,DS
 Data collection,DS
+Programming,DS
 data visualization,DS
-Collections,DS
-Data,DS
-Machine,DS
-C++,DS
-Product engineering,DS
-NoSQL,DS
-Business analytics,DS
-Artificial Intelligence,DS
-MySQL,DS
-Machine learning,DS
-MongoDB,DS
-Python,DS
-pandas,DS
-Scipy,DS
-NLP,DS
-Data visualization,DS
-predictive modeling,DS
-Data Mining,DS
-Numpy,DS
-Data Science,DS
-NLP,DS
-PyTorch,DS
-LSTM,DS
-GCP,DS
-PySpark,DS
-ML algorithms,DS
-Pandas,DS
-deep learning,DS
-Data analysis,DS
-Statistical analysis,DS
-data science,DS
-Machine learning,DS
-Product design,DS
-Predictive modeling,DS
-Mathematics,DS
-Operations research,DS
-SAS,DS
-Data management,DS
+Data mining,DS
+Risk management,DS
+MATLAB,DS
+Statistics,DS
+Computer science,DS
+Neural networks,DS
 Analytical,DS
-PHP,DS
-Econometrics,DS
-Operations,DS
-Analytics,DS
-AWS,DS
-Tensorflow,DS
-Pytorch,DS
-Spotfire,DS
-tableau,DS
-Power Bi,DS
-GCP,DS
-Keras,DS
-Cloud computing,DS
-deep learning,DS
-Statistical analysis,DS
+Pharma,DS
+Machine learning,DS
+Healthcare,DS
+Data mining,DS
+Scientist D,DS
+Data Science,DS
+analytical,DS
+machine learning,DS
+Python,DS
+Machine Learning Algorithms,DS
+aws,DS
+Algorithms,DS
+Data,DS
+Supply chain,DS
+Business services,DS
+Computer vision,DS
+Prototype,DS
+agile project management,DS
+Analytical,DS
+Machine learning,DS
+microsoft,DS
+Career development,DS
+Data analysis,DS
 data science,DS
-GCP,DS
-Consulting,DS
 Machine learning,DS
 Data quality,DS
-Data analysis,DS
-Coding,DS
-Machine learning,DS
-Debugging,DS
-Data collection,DS
-Data mining,DS
-Open source,DS
+Forecasting,DS
 Analytics,DS
+Recruitment,DS
+Product management,DS
+Computer science,DS
+Machine learning,DS
+Radiology,DS
+Programming,DS
+Healthcare,DS
+Natural language processing,DS
+Recruitment,DS
+deep learning,DS
+PDF,DS
+data science,DS
+spark,DS
+Deployment,DS
+Pattern recognition,DS
+AWS,DS
+Analytics,DS
+Computer science,DS
+Text mining,DS
+Computer vision,DS
+Image processing,DS
+Artificial Intelligence,DS
+Machine learning,DS
+Life sciences,DS
+Bioinformatics,DS
+IT services,DS
+Automation,DS
+Managed services,DS
+GIT,DS
+Linux,DS
+Enterprise applications,DS
+Machine learning,DS
+HIPAA,DS
+Computer vision,DS
+Marketing analytics,DS
+data science,DS
+Risk analytics,DS
+Analytical,DS
+Demand forecasting,DS
+Consulting,DS
+Natural language processing,DS
+Training,DS
+Computer vision,DS
+Matrix,DS
+Architecture,DS
+Packaging,DS
+model development,DS
+Deployment,DS
+Downstream,DS
+Computer vision,DS
+Medical imaging,DS
+Linux,DS
+data science,DS
+Neural networks,DS
+Machine learning,DS
+Programming,DS
+Manager Technology,DS
+Product management,DS
+Data analysis,DS
+Database,DS
+Manager Technology,DS
+Research,DS
+Project design,DS
+Technology,DS
+Project,DS
+Training,DS
+deep learning,DS
+Backend,DS
+Linux,DS
+Artificial Intelligence,DS
+Machine learning,DS
+Transformers,DS
+Deployment,DS
+Training,DS
+data science,DS
+Machine learning,DS
+Data collection,DS
+Programming,DS
+Data quality,DS
+Natural language processing,DS
+data visualization,DS
+Data management,DS
+Business analytics,DS
+Machine learning,DS
+data governance,DS
+Data Analyst,DS
+Data quality,DS
+Natural language processing,DS
+Data mining,DS
+data science,DS
+Data Scientist,DS
+Data analytics,DS
+Data,DS
+Analytics,DS
+Science,DS
+Automation,DS
+Bidding,DS
+Social media,DS
+Machine learning,DS
+Manager Technology,DS
+Account management,DS
+Natural language processing,DS
+Python,DS
+Computer science,DS
+Statistical analysis,DS
+Analytical,DS
+Artificial Intelligence,DS
+Machine learning,DS
+Credit risk analysis,DS
+Predictive modeling,DS
+Mathematics,DS
+Computer science,DS
+Logistic regression,DS
+Data analysis,DS
+Analytical,DS
+Troubleshooting,DS
+Risk management,DS
+Continuous improvement,DS
+Analytics,DS
+Backend,DS
+Front end,DS
+html5,DS
+MySQL,DS
+Javascript,DS
+Routing,DS
+Management,DS
+IOS,DS
+Analytical skills,DS
+NoSQL,DS
+data science,DS
+Project management,DS
+Business analytics,DS
+Analytical,DS
+cloud storage,DS
+data visualization,DS
+Data Science,DS
+Machine Learning,DS
+Statistics,DS
+Data Bricks,DS
+Analytics,DS
+lead,DS
+Bricks,DS
+Data,DS
+Artificial Intelligence,DS
+Machine Learning,DS
+Data Science,DS
+Data Visualization,DS
+Deep Learning,DS
+Science,DS
+Machine,DS
+Intelligence,DS
+Machine Learning,DS
+Deep Learning,DS
+Python,DS
+Data Science,DS
+Power Bi,DS
+API,DS
+AWS,DS
+Predictive Analytics,DS
+Power Bi,DS
+Machine Learning,DS
+SQL,DS
+Bi,DS
+Data,DS
+Machine,DS
+Data Science,DS
+Machine Learning,DS
+Deep Learning,DS
+Python,DS
+SQL,DS
+Predictive Modeling,DS
+Statistical Modeling,DS
+Regression,DS
+Supply chain,DS
+TQM,DS
+Machine learning,DS
+Open source,DS
+Forecasting,DS
+Principal,DS
+SQL,DS
+Python,DS
 Operations research,DS
 SAS,DS
 data science,DS
@@ -1124,11 +491,136 @@ SPSS,DS
 Open source,DS
 Analytics,DS
 SQL,DS
-Supply chain,DS
-Automation,DS
-Social media,DS
+Computer vision,DS
+deep learning,DS
+Opencv,DS
 Machine learning,DS
-Information retrieval,DS
-Open source,DS
-Principal,DS
+Mentor,DS
+Management,DS
+Statistics,DS
+SQL,DS
+Data Science,DS
+Predictive Modeling,DS
+Customer Analytics,DS
+Machine Learning,DS
+AWS,DS
+Python,DS
 Analytics,DS
+Modeling,DS
+Machine Learning,DS
+Deep learning,DS
+Java,DS
+C++,DS
+R,DS
+NLP,DS
+AI,DS
+Go,DS
+B2B Marketing,DS
+Computer science,DS
+Statistical analysis,DS
+data science,DS
+Equity,DS
+Predictive modeling,DS
+big data,DS
+Analytics,DS
+Business services,DS
+deep learning,DS
+C++,DS
+Claims,DS
+Analytical,DS
+Machine learning,DS
+Data collection,DS
+Actuarial,DS
+Data Science,DS
+Natural Language Processing,DS
+Machine Learning,DS
+Deep Learning,DS
+Languages,DS
+Process,DS
+Science,DS
+Data,DS
+Data Science,DS
+R,DS
+Python,DS
+SQL,DS
+Healthcare Analytics,DS
+Natural Language Processing,DS
+Statistical Modeling,DS
+Neural Networks,DS
+Machine Learning,DS
+Python,DS
+SQL,DS
+Natural Language Processing,DS
+Computer Vision,DS
+Deep Learning,DS
+Processing,DS
+Process,DS
+Data Science,DS
+Pyspark,DS
+Data Modeling,DS
+Python,DS
+Graph,DS
+Neo4J,DS
+sklearn,DS
+Graph Databases,DS
+Data Science,DS
+Decision Tree,DS
+Naive Bayes,DS
+Knn,DS
+Machine Learning,DS
+Random Forest,DS
+Startup,DS
+Data,DS
+predictive modelling,DS
+logistic,DS
+multiple regression,DS
+machine learning,DS
+Python,DS
+MS Azure,DS
+pyspark,DS
+Regression,DS
+Logistic regression,DS
+Data analysis,DS
+Client servicing,DS
+Trend analysis,DS
+Data mining,DS
+Individual Contributor,DS
+SQL,DS
+Python,DS
+Economics,DS
+Analytical,DS
+Programming,DS
+Statistics,DS
+Analytics,DS
+Data,DS
+Program,DS
+Matplotlib,DS
+Pandas,DS
+Data science,DS
+Python,DS
+Data,DS
+Science,DS
+deep learning,DS
+Data analysis,DS
+GIT,DS
+Analytical,DS
+MySQL,DS
+Machine learning,DS
+data visualization,DS
+Data mining,DS
+Computer vision,DS
+data science,DS
+Coding,DS
+Analytical,DS
+Artificial Intelligence,DS
+Machine learning,DS
+Data structures,DS
+Analytics,DS
+Data analysis,DS
+data modeling,DS
+data science,DS
+AI,DS
+power bi,DS
+BI development,DS
+dashboards,DS
+sql,DS
